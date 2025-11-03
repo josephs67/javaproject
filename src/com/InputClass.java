@@ -1,6 +1,8 @@
 //encapsulation
 package com;
 
+InputClass extends Calc;
+
 //imports scanner
 import java.util.Scanner;
 

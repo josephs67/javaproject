@@ -7,7 +7,7 @@ public class Main {
 
         //creating objects
         InputClass input = new InputClass();
-        Calc calculator = new Calc();
+        Calc calculator = new Calc(num1, num2);
 
         //starting menu
         System.out.println("Choose an operation:");
